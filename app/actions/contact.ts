@@ -22,3 +22,4 @@ export async function submitMessage(formData: FormData) {
 
   return { success: true }
 }
+

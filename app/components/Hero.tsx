@@ -15,7 +15,7 @@ export default async function Hero() {
       <div className="absolute top-10 left-1/4 w-[36rem] h-[36rem] bg-accent-400/20 dark:bg-accent-600/25 rounded-full blur-[110px] animate-pulse-slow"></div>
       <div className="absolute bottom-0 right-1/5 w-[26rem] h-[26rem] bg-accent-300/20 dark:bg-accent-400/15 rounded-full blur-[100px] animate-float"></div>
 
-      <div className="relative max-w-screen-2xl mx-auto px-4 sm:px-6 py-16 sm:py-24 md:py-32 flex flex-col md:flex-row items-center justify-between gap-10 md:gap-16">
+      <div className="relative max-w-screen-2xl mx-auto px-6 sm:px-8 lg:px-12 pt-24 pb-16 sm:pt-24 sm:pb-24 md:py-32 flex flex-col md:flex-row items-center justify-between gap-10 md:gap-16">
         <div className="flex-1 text-center md:text-left">
           <span className="inline-flex items-center gap-2 text-xs sm:text-sm font-semibold text-accent-600 dark:text-accent-400 mb-5 tracking-widest uppercase justify-center md:justify-start">
             <span className="w-8 h-px bg-accent-500 dark:bg-accent-400"></span>
